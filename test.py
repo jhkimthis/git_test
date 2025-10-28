@@ -63,3 +63,5 @@ def download_youtube_audio(url, output_path="."):
 
 # YouTube 동영상 URL
 youtube_url = input("Enter YouTube URL: ")
+
+youtube_url = input("Enter YouTube URL2: ")
