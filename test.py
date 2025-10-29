@@ -65,3 +65,7 @@ def download_youtube_audio(url, output_path="."):
 youtube_url = input("Enter YouTube URL: ")
 
 youtube_url = input("Enter YouTube URL2: ")
+
+# 여기에 추가로 변경함
+yt = YouTube(url)
+print(f"Download complete: {new_file}")
