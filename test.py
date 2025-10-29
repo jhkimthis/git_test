@@ -69,3 +69,6 @@ youtube_url = input("Enter YouTube URL2: ")
 # 여기에 추가로 변경함
 yt = YouTube(url)
 print(f"Download complete: {new_file}")
+
+print(f"Download complete: {new_file}")
+print(f"Download complete: {new_file}")
